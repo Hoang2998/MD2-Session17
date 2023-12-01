@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "bear",
+      "image": "https://cdn.creatureandcoagency.com/uploads/2014/04/Panda-Facts-Featured.jpg"
+    },
+    {
+      "name": "asdasd",
+      "image": "https://firebasestorage.googleapis.com/v0/b/hoang2998-eaf91.appspot.com/o/image%2Fbirdfly-removebg-preview.png?alt=media&token=781285fc-2873-4c11-b4dd-9329f50812f7",
+      "id": 2
+    },
+    {
+      "name": "asdasd",
+      "image": "https://firebasestorage.googleapis.com/v0/b/hoang2998-eaf91.appspot.com/o/image%2Fbirdfly-removebg-preview.png?alt=media&token=9ceb27d7-b3fb-47d0-9070-e690baab1da0",
+      "id": 3
+    },
+    {
+      "name": "asds",
+      "image": "https://firebasestorage.googleapis.com/v0/b/hoang2998-eaf91.appspot.com/o/image%2Ffire2.png?alt=media&token=1e04711c-e1d0-4fa3-82d9-979d1465f2dd",
+      "id": 4
+    },
+    {
+      "name": "aaaa",
+      "image": "https://firebasestorage.googleapis.com/v0/b/hoang2998-eaf91.appspot.com/o/image%2FlogoShark.png?alt=media&token=c7e25e7f-be89-4757-ac53-db890439d506",
+      "id": 5
+    },
+    {
+      "name": "aaaa",
+      "image": "https://firebasestorage.googleapis.com/v0/b/hoang2998-eaf91.appspot.com/o/image%2FlogoShark.png?alt=media&token=0b0727a3-58a0-41c4-b43e-bf26fd1b1b47",
+      "id": 6
+    }
+  ]
+}
